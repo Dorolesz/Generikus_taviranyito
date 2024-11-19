@@ -1,0 +1,15 @@
+D:\PETRIK\2024-25\C#\Generikus_taviranyito\Generikus_taviranyito\bin\Debug\net8.0\Generikus_taviranyito.exe
+D:\PETRIK\2024-25\C#\Generikus_taviranyito\Generikus_taviranyito\bin\Debug\net8.0\Generikus_taviranyito.deps.json
+D:\PETRIK\2024-25\C#\Generikus_taviranyito\Generikus_taviranyito\bin\Debug\net8.0\Generikus_taviranyito.runtimeconfig.json
+D:\PETRIK\2024-25\C#\Generikus_taviranyito\Generikus_taviranyito\bin\Debug\net8.0\Generikus_taviranyito.dll
+D:\PETRIK\2024-25\C#\Generikus_taviranyito\Generikus_taviranyito\bin\Debug\net8.0\Generikus_taviranyito.pdb
+D:\PETRIK\2024-25\C#\Generikus_taviranyito\Generikus_taviranyito\obj\Debug\net8.0\Generikus_taviranyito.GeneratedMSBuildEditorConfig.editorconfig
+D:\PETRIK\2024-25\C#\Generikus_taviranyito\Generikus_taviranyito\obj\Debug\net8.0\Generikus_taviranyito.AssemblyInfoInputs.cache
+D:\PETRIK\2024-25\C#\Generikus_taviranyito\Generikus_taviranyito\obj\Debug\net8.0\Generikus_taviranyito.AssemblyInfo.cs
+D:\PETRIK\2024-25\C#\Generikus_taviranyito\Generikus_taviranyito\obj\Debug\net8.0\Generikus_taviranyito.csproj.CoreCompileInputs.cache
+D:\PETRIK\2024-25\C#\Generikus_taviranyito\Generikus_taviranyito\obj\Debug\net8.0\Generikus_taviranyito.sourcelink.json
+D:\PETRIK\2024-25\C#\Generikus_taviranyito\Generikus_taviranyito\obj\Debug\net8.0\Generikus_taviranyito.dll
+D:\PETRIK\2024-25\C#\Generikus_taviranyito\Generikus_taviranyito\obj\Debug\net8.0\refint\Generikus_taviranyito.dll
+D:\PETRIK\2024-25\C#\Generikus_taviranyito\Generikus_taviranyito\obj\Debug\net8.0\Generikus_taviranyito.pdb
+D:\PETRIK\2024-25\C#\Generikus_taviranyito\Generikus_taviranyito\obj\Debug\net8.0\Generikus_taviranyito.genruntimeconfig.cache
+D:\PETRIK\2024-25\C#\Generikus_taviranyito\Generikus_taviranyito\obj\Debug\net8.0\ref\Generikus_taviranyito.dll
